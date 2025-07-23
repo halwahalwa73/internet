@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Future Aspirations - Halima Golllo </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>My Future Aspirations</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="childhood.html">Childhood</a>
+      <a href="education.html">Education</a>
+      <a href="skills.html">Skills</a>
+      <a href="future-aspiration.html">Future</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>In the future, I aspire to become a professional software developer, building solutions that help people and make a difference in the world.</p>
+      <p>I also hope to combine my coding knowledge with my passion for music, possibly creating apps that assist musicians or music learners.</p>
+      <p>Eventually, I want to mentor others and contribute to the tech community in Kenya and beyond.</p>
+    </section>
+  </main>
+</body>
+</html>
