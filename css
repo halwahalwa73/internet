@@ -1,0 +1,29 @@
+css
+body {
+  background-image: url('background.jpg');  /* Your background image file */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #fff;  /* white text for better contrast */
+}
+
+header, nav, section, footer {
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.6);  /* semi-transparent dark background */
+  margin: 10px auto;
+  max-width: 900px;
+  border-radius: 8px;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
