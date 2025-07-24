@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tribute to GODANA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Tribute to GODANA</h1>
+    <p>"Education is the most powerful weapon which you can use to change the world."</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <img src="GODANA.jpg" alt=" photo GODANA" />
+      <p>GODANA was an inspiring educator and mentor. Known for his dedication to learning and uplifting others through knowledge.</p>
+    </section>
+
+    <section class="bio">
+      <h2>Biography</h2>
+      <p>GODANA was born in a small village and overcame many obstacles to become a renowned teacher. His passion for education began at a young age and led him to pursue higher learning despite numerous challenges.</p>
+    </section>
+
+    <section class="achievements">
+      <h2>Educational Goals and Achievements</h2>
+      <ul>
+        <li>Earned a degree in Education with top honors</li>
+        <li>Established a community learning center for underprivileged youth</li>
+        <li>Advocated for digital literacy in rural schools</li>
+      </ul>
+    </section>
+
+    <section class="impact">
+      <h2>Why I Admire GODANA </h2>
+      <p>GODANA's perseverance and belief in the power of education continue to inspire me. His life proves that with hard work and a love for learning, anything is possible.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Created by [Your Name] | View on <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME" target="_blank">GitHub</a></p>
+  </footer>
+</body>
+</html>
